@@ -31,3 +31,6 @@
 [submodule "xproc-util"]
 	path = xproc-util
 	url = https://github.com/transpect/xproc-util
+[submodule "calabash"]
+	path = calabash
+	url = https://github.com/transpect/calabash-frontend.git
