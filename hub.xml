@@ -1,0 +1,2597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.le-tex.de/resource/schema/hub/1.2/hub.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.le-tex.de/resource/schema/hub/1.2/hub.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<hub xmlns="http://docbook.org/ns/docbook"
+     xmlns:css="http://www.w3.org/1996/css"
+     xml:base="file:/C:/cygwin64/home/WorthingtonS/file.hub.xml"
+     css:version="3.0-variant le-tex_Hub-1.2"
+     xml:lang="de"
+     css:rule-selection-attribute="role"
+     version="5.1-variant le-tex_Hub-1.2">
+   <info>
+      <keywordset role="hub">
+         <keyword role="formatting-deviations-only">true</keyword>
+         <keyword role="source-type">docx</keyword>
+         <keyword role="source-dir-uri">file:/C:/cygwin64/home/WorthingtonS/file.docx.tmp/</keyword>
+         <keyword role="archive-dir-uri">file:/C:/cygwin64/home/WorthingtonS/</keyword>
+         <keyword role="source-basename">file</keyword>
+         <keyword role="source-application">Microsoft Office Word</keyword>
+         <keyword role="mathtype2mml">true</keyword>
+      </keywordset>
+      <keywordset role="docProps">
+         <keyword role="dc:creator">Hauschke, Christian</keyword>
+         <keyword role="cp:lastModifiedBy">Simon Worthington</keyword>
+         <keyword role="cp:revision">2</keyword>
+         <keyword role="dcterms:created">2017-12-07T13:40:00Z</keyword>
+         <keyword role="dcterms:modified">2017-12-07T13:40:00Z</keyword>
+         <keyword role="extendedProps:Template">Normal.dotm</keyword>
+         <keyword role="extendedProps:TotalTime">0</keyword>
+         <keyword role="extendedProps:Pages">8</keyword>
+         <keyword role="extendedProps:Words">2672</keyword>
+         <keyword role="extendedProps:Characters">15231</keyword>
+         <keyword role="extendedProps:Application">Microsoft Office Word</keyword>
+         <keyword role="extendedProps:DocSecurity">0</keyword>
+         <keyword role="extendedProps:Lines">126</keyword>
+         <keyword role="extendedProps:Paragraphs">35</keyword>
+         <keyword role="extendedProps:ScaleCrop">false</keyword>
+         <keyword role="extendedProps:Company">TIB/UB Hannover</keyword>
+         <keyword role="extendedProps:LinksUpToDate">false</keyword>
+         <keyword role="extendedProps:CharactersWithSpaces">17868</keyword>
+         <keyword role="extendedProps:SharedDoc">false</keyword>
+         <keyword role="extendedProps:HyperlinksChanged">false</keyword>
+         <keyword role="extendedProps:AppVersion">14.0000</keyword>
+      </keywordset>
+      <css:rules>
+         <css:rule layout-type="para"
+                   native-name="List Paragraph"
+                   css:font-size="10pt"
+                   css:font-family="Arial"
+                   css:margin-left="36pt"
+                   name="ListParagraph"/>
+         <css:rule layout-type="para"
+                   native-name="Title"
+                   css:font-size="26pt"
+                   css:font-family="Arial"
+                   css:page-break-after="avoid"
+                   css:margin-bottom="3pt"
+                   css:line-height="1"
+                   name="Title"/>
+         <css:rule layout-type="para"
+                   native-name="Überschrift 11"
+                   css:font-size="20pt"
+                   css:font-family="Arial"
+                   css:page-break-after="avoid"
+                   css:margin-top="20pt"
+                   css:margin-bottom="6pt"
+                   css:line-height="1"
+                   name="berschrift11"/>
+         <css:rule layout-type="para"
+                   native-name="Überschrift 21"
+                   css:font-size="16pt"
+                   css:font-family="Arial"
+                   css:page-break-after="avoid"
+                   css:margin-top="18pt"
+                   css:margin-bottom="6pt"
+                   css:line-height="1"
+                   name="berschrift21"/>
+         <css:rule layout-type="inline"
+                   native-name="annotation reference"
+                   css:font-size="8pt"
+                   name="CommentReference"/>
+         <css:rule remap="superscript"
+                   layout-type="inline"
+                   native-name="footnote reference"
+                   name="FootnoteReference"/>
+         <css:rule layout-type="inline"
+                   native-name="Hyperlink"
+                   css:color="#0000FF"
+                   css:text-decoration-style="solid"
+                   css:text-decoration-line="underline"
+                   name="Hyperlink"/>
+      </css:rules>
+   </info>
+   <para>Jana MERSMANN, Christian HAUSCHKE</para>
+   <para role="Title">
+      <anchor xmlns:mml="http://www.w3.org/1998/Math/MathML" xml:id="_w7cwjhcx72hu"/>Tagungsbericht VIVO-Workshop 2017 - “Forschungsinformationen in der Praxis”</para>
+   <para role="berschrift11">
+      <anchor xmlns:mml="http://www.w3.org/1998/Math/MathML" xml:id="_gtguxdp4vww5"/>Abstract:</para>
+   <para css:text-align="justify">Der Wissens- und Erfahrungsaustausch stand im Fokus des 2.VIVO-Workshop 2017 an der Technischen Informationsbibliothek (TIB) in Hannover. Der Workshop, der von rund 40 Teilnehmer/innen aus deutschsprachigen Hochschulen und Universitäten besucht wurde, war in zwei verschiedene Sessions unterteilt. In vorangestellten Vorträgen wurden sowohl technische Anpassungen und Weiterentwicklungen am Forschungsinformationssystem VIVO an einzelnen Einrichtungen erläutert, als auch Erfahrungsberichte einzelner Anwender/innen geteilt sowie Einsatzmöglichkeiten von VIVO in verschiedenen Kontexten thematisiert. Im anschließenden interaktiven Teil wurden Bedarfe und Herausforderungen diskutiert und gesammelt, die anschließend priorisiert wurden. Als Herausforderungen für die VIVO-Entwickler kristallisierten sich Verbesserungen in den Bereichen Reporting, Datenintegration und einem in den Administrationsbereich integrierten Rollenmanagement heraus. Der Workshop formulierte ausdrücklich den vielfach geäußerten Wunsch nach Vernetzung, Austausch und Fortbildung innerhalb der VIVO-Community und darüber hinaus.</para>
+   <para role="berschrift21">Schlagwörter:</para>
+   <para>VIVO, Forschungsinformationen, Forschungsinformationssystem, Datenschutz, Ontologie, Linked Data</para>
+   <para role="berschrift11">
+      <anchor xmlns:mml="http://www.w3.org/1998/Math/MathML" xml:id="_4v8c3reumqmt"/>
+      <phrase xml:lang="en">Summary:</phrase>
+   </para>
+   <para>
+      <phrase xml:lang="en">The 2nd VIVO-Workshop 2017 at the German National Library of Science and Technology (TIB) in Hannover focussed on exchange of knowledge and experiences. The workshop was attended by about 40 participants from German-speaking universities and research institutes. It was divided into two different sessions. The first part included presentations about VIVO implementations and technical adaptations in several institutions. The application of VIVO was discussed in different contexts. In the subsequent interactive second part, requirements and challenges were discussed and collected, which were then prioritized by the participants. Challenges for the VIVO developers have been identified regarding  some features like ​​reporting, data integration, and an integrated role management. The workshop was very successful in addressing the widely expressed desire for networking, knowledge exchange and training within the VIVO community and beyond.</phrase>
+   </para>
+   <para role="berschrift21">
+      <anchor xmlns:mml="http://www.w3.org/1998/Math/MathML" xml:id="_h9cgf3ltrs99"/>
+      <phrase xml:lang="en">Key words:</phrase>
+   </para>
+   <para>
+      <phrase xml:lang="en">VIVO, research information, research information system, privacy, ontology, linked data</phrase>
+   </para>
+   <para role="berschrift11">
+      <anchor xmlns:mml="http://www.w3.org/1998/Math/MathML" xml:id="_f222i06blxo6"/>Inhaltsverzeichnis</para>
+   <div role="hub:toc">
+      <para css:margin-top="10pt" css:line-height="1">
+         <tabs>
+            <tab align="right" leader="dot" horizontal-position="451.25pt"/>
+         </tabs>
+         <link linkend="_6zvqg8qx2mj6">
+            <phrase css:font-weight="bold">Einführung</phrase>
+         </link>
+         <phrase css:font-weight="bold">
+            <tab xml:space="preserve">	</tab>2</phrase>
+      </para>
+      <para css:margin-top="10pt" css:line-height="1">
+         <tabs>
+            <tab align="right" leader="dot" horizontal-position="451.25pt"/>
+         </tabs>
+         <link linkend="_cf1231q1cee2">
+            <phrase css:font-weight="bold">Die Vorträge</phrase>
+         </link>
+         <phrase css:font-weight="bold">
+            <tab xml:space="preserve">	</tab>2</phrase>
+      </para>
+      <para css:margin-top="10pt" css:margin-bottom="4pt" css:line-height="1">
+         <tabs>
+            <tab align="right" leader="dot" horizontal-position="451.25pt"/>
+         </tabs>
+         <link linkend="_km8ijlhyyy5t">
+            <phrase css:font-weight="bold">Die interaktive Session</phrase>
+         </link>
+         <phrase css:font-weight="bold">
+            <tab xml:space="preserve">	</tab>4</phrase>
+      </para>
+   </div>
+   <para role="berschrift11">
+      <anchor xmlns:mml="http://www.w3.org/1998/Math/MathML" xml:id="_6zvqg8qx2mj6"/>Einführung</para>
+   <para css:text-align="justify">
+      <anchor role="start" xml:id="comment_12"/>
+   </para>
+   <para>VIVO ist eine community-basierte Open-Source-Software zur Darstellung vernetzter Forscherprofile im Netz. Es hilft bei der Präsentation wissenschaftlichen Outputs, der Netzwerk-Analyse, der Bewertung der Forschung und als Experten-Suchsystem. VIVO setzt auf Linked Data und offene Standards. Mitgelieferte Ontologien dienen der Beschreibung wissenschaftlicher Personen, Projekte, Publikationen und vielem anderen mehr. Zusätzliche eigene Ontologien kann man ergänzen. International hat VIVO schon eine große Verbreitung, und auch im deutschsprachigen Raum stößt die Software auf zunehmendes Interesse.</para>
+   <para css:text-align="justify"/>
+   <para css:text-align="justify">Beim VIVO-Workshop 2017 wurde am 28. September 2017 an der Technischen Informationsbibliothek (TIB) in Hannover über den Einsatz des Open-Source-Forschungsinformationssystems VIVO diskutiert. Im Fokus standen dabei Projekt- und Werkstattberichte überwiegend aus dem deutschsprachigen Raum. Die Veranstaltung stand unter dem Motto „Forschungsinformationen in der Praxis“, wobei die Förderung der Vernetzung und des Wissensaustausches zwischen den VIVO-Anwendern und -Interessierten klar im Fokus stand. Die insgesamt etwa 40 Teilnehmer/innen kamen aus dem gesamten deutschsprachigen Raum zusammen. Institutionell waren sie verschiedenen Facetten der wissenschaftlichen Landschaft zuzuordnen. Es waren überwiegend Vertreter/innen von Hochschulen und außeruniversitären Einrichtungen anwesend.</para>
+   <para css:text-align="justify"/>
+   <para css:text-align="justify">Der erste VIVO-Workshop im deutschsprachigen Raum hatte 2015 ebenfalls an der TIB stattgefunden.</para>
+   <para role="berschrift11">
+      <anchor xmlns:mml="http://www.w3.org/1998/Math/MathML" xml:id="_cf1231q1cee2"/>Die Vorträge</para>
+   <para css:text-align="justify">
+      <phrase css:font-weight="bold">Sören Auer</phrase> (Direktor der TIB) begrüßte die Teilnehmer/innen und thematisierte in seinen einleitenden Worten die DEAL-Verhandlungen zur bundesweiten Lizenzierung von Angeboten großer Wissenschaftsverlage. Die Produkte der involvierten Anbieter lassen auch den Bereich Forschungsinformationssysteme nicht unberührt.</para>
+   <para css:text-align="justify"/>
+   <para css:text-align="justify">
+      <phrase css:font-weight="bold">Christian Hauschke</phrase> (TIB) resümmierte anschließend in einem Vortrag seine subjektiven Highlights der VIVO-Conference 2017 in New York zusammen. Er berichtete dabei unter anderem über neue Entwicklungen zur Datenintegration, Visualisierung, Bibliometrie und in der Öffentlichkeitsarbeit für Forschungsinformationssysteme (FIS) in der eigenen Einrichtung. Weiterhin fasste er Neuigkeiten zum kurz vor der Veröffentlichung stehenden VIVO-Release 1.10 zusammen und gab einen Überblick über die Schwerpunkte der TIB-Aktivitäten im VIVO-Kontext.</para>
+   <para css:text-align="justify"/>
+   <para css:text-align="justify">
+      <phrase css:font-weight="bold">Stefan Wolff</phrase> (Technische Universität Dresden) stellte im folgenden Vortrag die Anbindung von VIVO an kommerzielle FIS am Beispiel von Pure von Elsevier vor. Er verglich den für Pure zur Verfügung stehenden Connector für VIVO mit dem Information Integration Tool Karma (<link xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:href="http://www.isi.edu/integration/karma/">
+         <phrase css:color="#1155CC"
+                 css:text-decoration-style="solid"
+                 css:text-decoration-line="underline">http://www.isi.edu/integration/karma/</phrase>
+      </link>). Sein Fazit lautete, dass Karma zwar aufwändiger zu implementieren, dafür aber anpassbar sei. Bei gewünschter größtmöglicher Flexibilität und vorhandenen Kapazitäten plädierte Stefan Wolff aus der Perspektive eines Informatikers für die Nutzung von Karma.</para>
+   <para css:text-align="justify"/>
+   <para css:text-align="justify">
+      <phrase css:font-weight="bold">Tatiana Walther</phrase> (TIB) präsentierte in ihrem Vortrag das Projekt TIB-FIS-Discovery, in dessen Verlauf Forschungsprofile auf Basis von VIVO für den Forschungsoutput der TIB aufgebaut wurden. Sie beschrieb die Fortschritte im Projekt im Hinblick auf die gestellten, vielfältigen Ziele und thematisierte insbesondere die technische Umsetzung des Projektes. Außerdem betonte sie die Notwendigkeit, sich im FIS-Kontext eingehend mit der bestehenden Datenschutzproblematik zu beschäftigen und beteiligte Prozesse und Verantwortlichkeiten klar zu beschreiben und zu definieren.</para>
+   <para css:text-align="justify"/>
+   <para css:text-align="justify">
+      <phrase css:font-weight="bold">Annika-Valeska Walzel</phrase> (Sächsische Landesbibliothek - Staats- und Universitätsbibliothek Dresden) beschrieb ein Anwendungsszenario ganz anderer Art. Das von ihr vorgestellte Arthistoricum-VIVO (<link xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:href="http://vivo.arthistoricum.net/">
+         <phrase css:color="#1F497D"
+                 css:text-decoration-style="solid"
+                 css:text-decoration-line="underline">http://vivo.arthistoricum.net/</phrase>
+      </link>) soll nicht die Forschungsaktivität einer Einrichtung widerspiegeln, sondern dient als semantisches Personenverzeichnis einer Disziplin, der Kunstgeschichte. Das System aggregiert Daten aus vorhandenen und frei verfügbaren Quellen wie der Gemeinsamen Normdatei oder Wikidata. Es adressiert mit dem Aufbau einer kuratierten Suche einen spezifischen Bedarf der Kunstwissenschaften und ist Teil der Dienstleistungen des Fachinformationsdienstes  Kunst, Fotografie, Design, der kooperativ von der UB Heidelberg und der SLUB Dresden betrieben wird.</para>
+   <para css:text-align="justify"/>
+   <para css:text-align="justify">
+      <phrase css:font-weight="bold">Ina Blümel</phrase> (TIB / HsH) gab in ihrem Vortrag Einblicke in ein studentisches VIVO-Projekt an der Fakultät III der Hochschule Hannover (HsH). Basierend auf einer Analyse der Eigendarstellungen aus Websiten und der sonstigen Selbstmarketing-Aktivitäten der Wissenschaftler/innen der Fakultät III an der HsH sollten die Bedarfe der Forschenden im Hinblick auf FIS-Visualisierungen ermittelt werden. Dazu wurden die Wissenschafter/innen eingehend befragt. Als Ergebnis dieses von Ina Blümel und Christian Wartena betreuten Projektes entstand ein VIVO, dass nicht von der Hochschulleitung initiiert wurde, sondern direkt aus Eigeninitiative der Fakultät entstand. Laut Ina Blümel sind drei Aspekte entscheidend für die erfolgreiche Einführung eines FIS: die Identifikation der Wissenschaftler/innen mit dem FIS, die Integration zusätzlicher institutioneller Webangebote und eine Vielfalt an Filtermöglichkeiten, um z.B. Profilbildung und Kooperationsmöglichkeiten zu visualisieren.</para>
+   <para css:text-align="justify"/>
+   <para css:text-align="justify">Die Mittagspause wurde sehr rege für den Austausch zwischen VIVO-Anwendern und VIVO-Neulingen genutzt.</para>
+   <para css:text-align="justify"/>
+   <para css:text-align="justify">
+      <phrase css:font-weight="bold">Eiken Friedrichsen</phrase> (Christian-Albrechts-Universität zu Kiel) unternahm anschließend mit den Workshop-Teilnehmer/innen einen Exkurs zu “Forschungsinformationssysteme und Datenschutz”, einem Thema, das unabhängig von VIVO alle Organisationen betrifft, die sich mit der Einrichtung von Forschungsinformationssystemen beschäftigen. Ihrer Auffassung nach gilt: “Was nicht erlaubt ist, ist verboten!” Somit sei die Kenntnis und Beachtung von Bundes- oder Landesdatenschutzgesetzen und ab Mai 2018 auch der europäischen Datenschutzgrundverordnung (EU DSGVO) unabdingbar. Außerdem wies sie darauf hin, dass in fast allen Hochschulgesetzen Regelungen zu FIS fehlen. Als richtige Strategie im Kontext eines FIS empfiehlt Eiken Friedrichsen daher: “Beherrschen Sie Ihre Prozesse! Dokumentieren Sie das! Stellen Sie einen Datenplan auf.”</para>
+   <para css:text-align="justify"/>
+   <para css:text-align="justify">
+      <phrase css:font-weight="bold">Anna Kasprzik</phrase> (TIB) hielt einen Vortrag mit dem Titel “VIVO-DE-Extension und VIVO-KDSF – Ontologien für den deutschsprachigen Raum”. Darin thematisierte sie, dass sich Ontologien nicht so einfach übersetzen lassen, weil es nicht für alle Begriffe in allen Sprachen exakte und nützliche Entsprechungen gibt. Auch die Ebene (lokal, national, international), auf der die Anpassungen vorgenommen werden, sei entscheidend. Anna Kasprzik erläuterte Entstehung und Anwendung der VIVO-Ontologie-Erweiterung für den deutschsprachigen Raum (VIVO-DE-Extension) und der VIVO-KDSF-Erweiterung, die eine Datenerfassung nach Vorgaben des Kerndatensatzes Forschung (KDSF) in VIVO ermöglicht.</para>
+   <para css:text-align="justify"/>
+   <para css:text-align="justify">
+      <phrase css:font-weight="bold">Martin Barber</phrase> (TIB), der sich in seinem Vortrag ebenfalls mit dem KDSF beschäftigte, stellte “Lookup-Services (nicht nur) für den KDSF” vor. Dabei geht es vorrangig um die Nachnutzung extern gehosteter Vokabulare für die Anwendung des KDSF. Dazu wurde ein Service auf Basis von Fuseki (<link xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:href="http://jena.apache.org/documentation/serving_data/">
+         <phrase css:color="#1155CC"
+                 css:text-decoration-style="solid"
+                 css:text-decoration-line="underline">http://jena.apache.org/documentation/serving_data/</phrase>
+      </link>) und SKOSMOS (<link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://skosmos.org/">
+         <phrase css:color="#1155CC"
+                 css:text-decoration-style="solid"
+                 css:text-decoration-line="underline">http://skosmos.org/</phrase>
+      </link>) vorgestellt, mit dem aus VIVO und anderen Anwendungen heraus auf die auf diese Weise zur Verfügung gestellten Vokabulare zugegriffen werden kann. Als Beispiel diente die Fächerklassifikation des Statistischen Bundesamtes.</para>
+   <para css:text-align="justify"/>
+   <para css:text-align="justify">
+      <phrase css:font-weight="bold">Jürgen Wastl</phrase> (University of Cambridge) berichtete in seinem als Livestream eingespielten Vortrag von den Bemühungen der University of Cambridge um Forschungsinformation und Linked Data. Er erläuterte grundlegende Funktionalitäten des FIS in Cambridge. Insbesondere verdeutlichte er, dass nicht alle Daten von den Wissenschafter/innen verändert werden können und kontrollierte Vokabulare verwendet werden sollten, wo es möglich ist. In Cambridge werden mittels VIVO sogenannte “public profiles” der Wissenschaftler aus dem FIS abgebildet, die dann öffentlich sichtbar sind. Wastl betonte, dass “VIVO sehr schnell die Fehler in unserer Datenhaltung” zeigt. Hier sei also Umsicht und Prüfung der Datenqualität geboten.</para>
+   <para role="berschrift11">
+      <anchor xmlns:mml="http://www.w3.org/1998/Math/MathML" xml:id="_km8ijlhyyy5t"/>Die interaktive Session - Herausforderungen für die VIVO-Entwicklung</para>
+   <para css:text-align="justify">Nach einer Kaffeepause ging es dann in eine interaktive Session. Unter dem Motto “Wünsch Dir was – Weiterentwicklung von VIVO” wurden Vorschläge und Desiderata für die Weiterentwicklung von VIVO und rund um das Thema Forschungsinformationssysteme gesammelt und anschließend durch die Teilnehmer/innen priorisiert.</para>
+   <para css:text-align="justify">Zum Ausklang der Veranstaltung wurden die Themen des Tages und die anschließende Priorisierung von Ina Blümel und Christian Hauschke zusammengefasst. Ganz oben auf der Wunschliste der Teilnehmer/innen stand der Bereich Reporting mit fünf inhaltlich identischen Karten, für die insgesamt 20 Mal gestimmt wurde. Hier werden verbesserte Funktionalitäten für die Forschungsberichterstattung gewünscht.</para>
+   <para css:text-align="justify">Der Themencluster Datenintegration wurde insgesamt noch höher priorisiert, allerdings verteilten sich hier die insgesamt vergebenen 28 Punkte auf zehn verschiedene Karten. Die hohe Priorität dieses Punktes deckt sich mit den Wünschen der internationalen Community nach verbesserten Features zur Datenintegration. In seinen “VIVO Updates” vom 1. Oktober 2017 berichtete Mike Conlon über einen Versuch, die Prioritäten der bei der VIVO-Conference 2017 befindlichen Community einzusammeln<footnote>
+         <para css:line-height="1">
+            <phrase role="hub:identifier">1</phrase>
+            <phrase css:font-size="10pt" xml:lang="en">Conlon, Mike (2017): 2017-10-01 VIVO Updates. </phrase>
+            <link xmlns:xlink="http://www.w3.org/1999/xlink"
+                  xlink:href="https://wiki.duraspace.org/x/xglsBQ">
+               <phrase css:color="#1155CC"
+                       css:font-size="10pt"
+                       css:text-decoration-style="solid"
+                       css:text-decoration-line="underline"
+                       xml:lang="en">https://wiki.duraspace.org/x/xglsBQ</phrase>
+            </link>
+         </para>
+      </footnote>:</para>
+   <para css:margin-left="36pt">
+      <phrase css:font-style="italic" xml:lang="en">“We need </phrase>
+      <phrase css:font-weight="bold" css:font-style="italic" xml:lang="en">much</phrase>
+      <phrase css:font-style="italic" xml:lang="en"> better ways to get data into VIVO, and there need to be many more ways to get data out – packaged ways such as visualizations and reports, and open ways such as data publication and APIs.”</phrase>
+   </para>
+   <para css:text-align="justify"/>
+   <para css:text-align="justify"/>
+   <para>
+      <phrase xml:lang="en">
+         <mediaobject>
+            <imageobject>
+               <imagedata fileref="container:word/media/image1.png"
+                          css:width="386.5888976377953pt"
+                          css:height="289.0487401574803pt"/>
+            </imageobject>
+         </mediaobject>
+      </phrase>
+   </para>
+   <para>
+      <phrase css:font-size="10pt">Abb. 1: Sammlung der VIVO-Wunsch-Punkte. Die von einigen Teilnehmenden notierten Wünsche an die VIVO-Entwicklung wurden anschließend von den Anwesenden priorisiert.</phrase>
+   </para>
+   <para/>
+   <para css:text-align="justify">Weitere Themenbereiche, in denen die Anwesenden Verbesserungsbedarf sehen, waren die Arbeit an der Ontologie (5 Wünsche mit 3 Punkten), an der Oberfläche (GUI; 6 Wünsche mit 11 Punkten) oder neue Features (8 Wünsche mit 9 Punkten). Hier ist ganz klar der Wunsch hervorzuheben, das Rollenmanagement in den Administrationsbereich zu integrieren. Zwei Karten mit insgesamt 9 Punkten zeigten deutlich den Bedarf der Community nach einer stärkeren Vernetzung, einem intensiveren Austausch und weiteren Fortbildungen. Als Anregung für kommende Veranstaltungen äußerte eine Teilnehmerin, dass im Programm stärker zwischen VIVO als Forschungsinformationssystem primär für das Reporting bzw. als Forschungsprofilsystem hätte unterschieden werden können. Zum Abschluss wurde der Wunsch nach weiteren, ähnlichen Veranstaltungen ausgesprochen.</para>
+   <para css:text-align="justify"/>
+   <para css:text-align="justify">Tabelle 1: Ergebnisse der interaktiven <anchor role="start" xml:id="comment_33"/>
+      <anchor role="start" xml:id="comment_34"/>Session<anchor role="end" xml:id="comment_33_end"/>
+      <phrase role="CommentReference">
+         <annotation>
+            <info>
+               <author>
+                  <personname>
+                     <othername role="display-name">Zoll</othername>
+                     <othername role="initials">Z</othername>
+                  </personname>
+               </author>
+               <date>2017-11-19T16:14:00Z</date>
+            </info>
+            <para role="CommentText">
+               <phrase role="CommentReference"/>Kurze Erläuterung der Punktevergabe z.B. 1=sehr gut?</para>
+         </annotation>
+         <anchor role="end" xml:id="comment_34_end"/>
+         <annotation>
+            <info>
+               <author>
+                  <personname>
+                     <othername role="display-name">Christian Hauschke</othername>
+                     <othername role="initials">CH</othername>
+                  </personname>
+               </author>
+               <date>2017-11-20T09:30:00Z</date>
+            </info>
+            <para role="CommentText">
+               <phrase role="CommentReference">Das Vorgehen ist im Absatz zuvor erläutert. Ich denke, das reicht.</phrase>
+            </para>
+         </annotation>
+      </phrase>
+   </para>
+   <informaltable css:border-collapse="collapse"
+                  css:margin-left="-5.85pt"
+                  css:width="450.75pt">
+      <tgroup cols="3">
+         <colspec colnum="1" colname="col1" colwidth="109.27292355mm"/>
+         <colspec colnum="2" colname="col2" colwidth="16.13958435mm"/>
+         <colspec colnum="3" colname="col3" colwidth="33.60208545mm"/>
+         <tbody>
+            <row>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="309.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col1">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">Wunsch</para>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="45.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col2">
+                  <para css:orphans="1" css:widows="1" css:line-height="1"/>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="95.25pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col3">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">Anmerkung / Cluster</para>
+               </entry>
+            </row>
+            <row>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="309.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col1">
+                  <para>Integration von Bibliothekskatalogen über SPARQL-Endpoint</para>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="45.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col2">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">1</para>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="95.25pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col3">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">Datenintegration</para>
+               </entry>
+            </row>
+            <row>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="309.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col1">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">Integration FIS &amp; FDM</para>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="45.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col2">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">2</para>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="95.25pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col3">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">Datenintegration</para>
+               </entry>
+            </row>
+            <row>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="309.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col1">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">Einfacher, fehlertoleranter Datenimport von Rohdaten</para>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="45.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col2">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">3</para>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="95.25pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col3">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">Datenintegration</para>
+               </entry>
+            </row>
+            <row>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="309.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col1">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">Tools “automatisierte” Importprozesse für FIS-Daten</para>
+                  <para role="ListParagraph"
+                        css:orphans="1"
+                        css:widows="1"
+                        css:line-height="1"
+                        css:margin-left="36pt"
+                        css:text-indent="-18pt">
+                     <phrase role="hub:identifier" css:font-family="Arial">˗</phrase>
+                     <tab/>Personen</para>
+                  <para role="ListParagraph"
+                        css:orphans="1"
+                        css:widows="1"
+                        css:line-height="1"
+                        css:margin-left="36pt"
+                        css:text-indent="-18pt">
+                     <phrase role="hub:identifier" css:font-family="Arial">˗</phrase>
+                     <tab/>Projekte</para>
+                  <para role="ListParagraph"
+                        css:orphans="1"
+                        css:widows="1"
+                        css:line-height="1"
+                        css:margin-left="36pt"
+                        css:text-indent="-18pt">
+                     <phrase role="hub:identifier" css:font-family="Arial">˗</phrase>
+                     <tab/>Publikationen<br/>
+                  </para>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="45.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col2">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">3</para>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="95.25pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col3">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">Datenintegration</para>
+               </entry>
+            </row>
+            <row>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="309.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col1">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">Deduplizierung</para>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="45.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col2">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">3</para>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="95.25pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col3">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">Datenintegration</para>
+               </entry>
+            </row>
+            <row>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="309.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col1">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">Redakteur-System</para>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="45.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col2">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">6</para>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="95.25pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col3">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">Datenintegration / GUI</para>
+               </entry>
+            </row>
+            <row>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="309.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col1">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">Tools zum Einsammeln von Publikationsdaten aus</para>
+                  <para role="ListParagraph"
+                        css:orphans="1"
+                        css:widows="1"
+                        css:line-height="1"
+                        css:margin-left="36pt"
+                        css:text-indent="-18pt">
+                     <phrase role="hub:identifier" css:font-family="Arial">˗</phrase>
+                     <tab/>Plattformen (wie Research Gate)</para>
+                  <para role="ListParagraph"
+                        css:orphans="1"
+                        css:widows="1"
+                        css:line-height="1"
+                        css:margin-left="36pt"
+                        css:text-indent="-18pt">
+                     <phrase role="hub:identifier" css:font-family="Arial">˗</phrase>
+                     <tab/>Datenbanken (wie Web of Science)</para>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="45.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col2">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">3</para>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="95.25pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col3">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">Datenintegration</para>
+               </entry>
+            </row>
+            <row>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="309.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col1">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">Tools zur Aufbereitung von Publikationsdaten</para>
+                  <para css:orphans="1"
+                        css:widows="1"
+                        css:line-height="1"
+                        css:margin-left="36pt"
+                        css:text-indent="-18pt">
+                     <phrase role="hub:identifier">-</phrase>
+                     <tab/>Disambiguierung</para>
+                  <para css:orphans="1"
+                        css:widows="1"
+                        css:line-height="1"
+                        css:margin-left="36pt"
+                        css:text-indent="-18pt">
+                     <phrase role="hub:identifier">-</phrase>
+                     <tab/>Deduplizierung</para>
+                  <para css:orphans="1"
+                        css:widows="1"
+                        css:line-height="1"
+                        css:margin-left="36pt"
+                        css:text-indent="-18pt">
+                     <phrase role="hub:identifier">-</phrase>
+                     <tab/>Anreicherung</para>
+                  <para css:orphans="1"
+                        css:widows="1"
+                        css:line-height="1"
+                        css:margin-left="36pt"
+                        css:text-indent="-18pt">
+                     <phrase role="hub:identifier">-</phrase>
+                     <tab/>Korrektur</para>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="45.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col2">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">2</para>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="95.25pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col3">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">Datenintegration</para>
+               </entry>
+            </row>
+            <row>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="309.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col1">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">intelligenter Ontologie-Editor inkl. transparenter, performanter Reasoner</para>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="45.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col2">
+                  <para css:orphans="1" css:widows="1" css:line-height="1"/>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="95.25pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col3">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">Ontologie / GUI</para>
+               </entry>
+            </row>
+            <row>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="309.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col1">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">Weiterentwicklung des KDSF &amp; Anpassung an individuelle Bedürfnisse, z.B. Ressortforschung</para>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="45.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col2">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">3</para>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="95.25pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col3">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">Ontologie</para>
+               </entry>
+            </row>
+            <row>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="309.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col1">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">Bereinigung der Ontologie mit OntoClean-Methode</para>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="45.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col2">
+                  <para css:orphans="1" css:widows="1" css:line-height="1"/>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="95.25pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col3">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">Ontologie</para>
+               </entry>
+            </row>
+            <row>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="309.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col1">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">Modellierung von Rollen anstatt “isA-Explosion” in Ontologie</para>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="45.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col2">
+                  <para css:orphans="1" css:widows="1" css:line-height="1"/>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="95.25pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col3">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">Ontologie</para>
+               </entry>
+            </row>
+            <row>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="309.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col1">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">Klare Trennung von Wissensmodellierung und Anzeige</para>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="45.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col2">
+                  <para css:orphans="1" css:widows="1" css:line-height="1"/>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="95.25pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col3">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">Ontologie / Architektur</para>
+               </entry>
+            </row>
+            <row>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="309.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col1">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">Vorkategorisierung VIVO</para>
+                  <para css:orphans="1"
+                        css:widows="1"
+                        css:line-height="1"
+                        css:margin-left="36pt"
+                        css:text-indent="-18pt">
+                     <phrase role="hub:identifier">-</phrase>
+                     <tab/>Hochschule</para>
+                  <para css:orphans="1"
+                        css:widows="1"
+                        css:line-height="1"
+                        css:margin-left="36pt"
+                        css:text-indent="-18pt">
+                     <phrase role="hub:identifier">-</phrase>
+                     <tab/>Bibliothek</para>
+                  <para css:orphans="1"
+                        css:widows="1"
+                        css:line-height="1"
+                        css:margin-left="36pt"
+                        css:text-indent="-18pt">
+                     <phrase role="hub:identifier">-</phrase>
+                     <tab/>Forschungseinrichtung</para>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="45.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col2">
+                  <para css:orphans="1" css:widows="1" css:line-height="1"/>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="95.25pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col3">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">Sonstiges</para>
+               </entry>
+            </row>
+            <row>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="309.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col1">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">Exportschnittstellen (XML?)</para>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="45.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col2">
+                  <para css:orphans="1" css:widows="1" css:line-height="1"/>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="95.25pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col3">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">Datenintegration</para>
+               </entry>
+            </row>
+            <row>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="309.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col1">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">Workflows mit Hilfe anderer Systeme oder in VIVO direkt</para>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="45.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col2">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">5</para>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="95.25pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col3">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">Datenintegration</para>
+               </entry>
+            </row>
+            <row>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="309.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col1">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">Rechte- und Rollenkonzept ausarbeiten</para>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="45.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col2">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">4</para>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="95.25pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col3">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">Feature</para>
+               </entry>
+            </row>
+            <row>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="309.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col1">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">Facettennavigation</para>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="45.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col2">
+                  <para css:orphans="1" css:widows="1" css:line-height="1"/>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="95.25pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col3">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">Feature</para>
+               </entry>
+            </row>
+            <row>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="309.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col1">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">Flexible GUI, Reporting, Visualisierung, API</para>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="45.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col2">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">1</para>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="95.25pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col3">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">Architektur / Feature / GUI / Reporting</para>
+               </entry>
+            </row>
+            <row>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="309.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col1">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">Benutzerfreundlichere GUI</para>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="45.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col2">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">3</para>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="95.25pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col3">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">GUI</para>
+               </entry>
+            </row>
+            <row>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="309.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col1">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">Der Button, der zur Publikationsübersicht einer Abteilung führt, sollte sichtbarer und eindeutiger beschriftet sein.</para>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="45.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col2">
+                  <para css:orphans="1" css:widows="1" css:line-height="1"/>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="95.25pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col3">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">GUI</para>
+               </entry>
+            </row>
+            <row>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="309.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col1">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">Profil: Publikationen thematisch (oder nach anderen Kriterien clustern können)</para>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="45.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col2">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">1</para>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="95.25pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col3">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">Feature / GUI</para>
+               </entry>
+            </row>
+            <row>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="309.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col1">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">Oberfläche für das Rollenmanagement</para>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="45.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col2">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">2</para>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="95.25pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col3">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">Feature</para>
+               </entry>
+            </row>
+            <row>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="309.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col1">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">Sortieren, Gruppieren, Filtern in der Außenansicht (To Do Cambridge)</para>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="45.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col2">
+                  <para css:orphans="1" css:widows="1" css:line-height="1"/>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="95.25pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col3">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">Feature</para>
+               </entry>
+            </row>
+            <row css:min-height="23pt">
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="309.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col1">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">Ein niedersachsenweites FIS</para>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="45.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col2">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">4</para>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="95.25pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col3">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">Sonstiges</para>
+               </entry>
+            </row>
+            <row>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="309.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col1">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">verschiedene Systeme, (kommerzielle FIS, Repos) -&gt; 1 VIVO</para>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="45.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col2">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">3</para>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="95.25pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col3">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">Sonstiges</para>
+               </entry>
+            </row>
+            <row>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="309.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col1">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">Projektmanagement (rundherum)</para>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="45.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col2">
+                  <para css:orphans="1" css:widows="1" css:line-height="1"/>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="95.25pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col3">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">Sonstiges</para>
+               </entry>
+            </row>
+            <row>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="309.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col1">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">Reporting, Berichte erstellen, interne sowie externe Berichterstattung, Reportingfunktionen einfacher gestalten, Berichtswesen</para>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="45.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col2">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">20</para>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="95.25pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col3">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">Reporting</para>
+               </entry>
+            </row>
+            <row>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="309.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col1">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">Nachhaltigkeit sicherstellen; aktiv Entwicklungen auf internationaler und nationaler Ebene fördern</para>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="45.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col2">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">3</para>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="95.25pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col3">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">Community</para>
+               </entry>
+            </row>
+            <row>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="309.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col1">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">Vernetzung, Fortbildung, Austausch</para>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="45.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col2">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">6</para>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="95.25pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col3">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">Community</para>
+               </entry>
+            </row>
+            <row>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="309.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col1">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">VIVO als Forschungsportal für FIS-Systeme</para>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="45.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col2">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">6</para>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="95.25pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col3">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">Sonstiges</para>
+               </entry>
+            </row>
+            <row>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="309.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col1">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">Idee für VIVO Version X.X: kleines, lokales VIVO analog Zotero</para>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="45.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col2">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">1</para>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="95.25pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col3">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">Feature</para>
+               </entry>
+            </row>
+            <row>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="309.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col1">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">Für lokale Testzwecke denkbar: Ein Live-ISO-System mit einer vorkonfigurierten VIVO-Installation</para>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="45.75pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col2">
+                  <para css:orphans="1" css:widows="1" css:line-height="1"/>
+               </entry>
+               <entry css:padding-left="5pt"
+                      css:padding-right="5pt"
+                      css:width="95.25pt"
+                      css:border-top-style="solid"
+                      css:border-top-width="1pt"
+                      css:border-top-color="#000001"
+                      css:border-left-style="solid"
+                      css:border-left-width="1pt"
+                      css:border-left-color="#000001"
+                      css:border-bottom-style="solid"
+                      css:border-bottom-width="1pt"
+                      css:border-bottom-color="#000001"
+                      css:border-right-style="solid"
+                      css:border-right-width="1pt"
+                      css:border-right-color="#000001"
+                      css:padding-top="5pt"
+                      css:padding-bottom="5pt"
+                      colname="col3">
+                  <para css:orphans="1" css:widows="1" css:line-height="1">Feature</para>
+               </entry>
+            </row>
+         </tbody>
+      </tgroup>
+   </informaltable>
+   <para role="berschrift11">Literatur</para>
+   <para>Barber, Martin 2017. Lookup-Services (nicht nur) für den KDSF. Zenodo. DOI: <link xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:href="https://doi.org/10.5281/zenodo.1002699">
+         <phrase css:color="#1155CC"
+                 css:text-decoration-style="solid"
+                 css:text-decoration-line="underline">10.5281/zenodo.1002699</phrase>
+      </link>.</para>
+   <para/>
+   <para>Blümel, Ina 2017. Profile, Studiengänge, Fakultäten: Bottom-Up-Entwicklung eines VIVO an der Hochschule Hannover. Zenodo. DOI: <link xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:href="https://doi.org/10.5281/zenodo.1002715">
+         <phrase css:color="#1155CC"
+                 css:text-decoration-style="solid"
+                 css:text-decoration-line="underline">10.5281/zenodo.1002715</phrase>
+      </link>.</para>
+   <para/>
+   <para>Friedrichsen, Eiken 2017. Forschungsinformationssysteme und Datenschutz. Zenodo. DOI: <link xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:href="https://doi.org/10.5281/zenodo.999455">
+         <phrase css:color="#1155CC"
+                 css:text-decoration-style="solid"
+                 css:text-decoration-line="underline">10.5281/zenodo.999455</phrase>
+      </link>.</para>
+   <para/>
+   <para>Hauschke, Christian 2017. Quo Vadis, Vivo?: Stand Und Entwicklung. Zenodo. DOI: <link xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:href="https://doi.org/10.5281/zenodo.1000484">
+         <phrase css:color="#1155CC"
+                 css:text-decoration-style="solid"
+                 css:text-decoration-line="underline">10.5281/zenodo.1000484</phrase>
+      </link>.</para>
+   <para/>
+   <para>Kasprzik, Anna 2017. VIVO-DE-Extension und VIVO-KDSF: Ontologien für den deutschsprachigen Raum. <phrase xml:lang="en">Zenodo. DOI:</phrase> 
+      <link xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:href="https://doi.org/10.5281/zenodo.998739">
+         <phrase role="Hyperlink">10.5281/zenodo.998739</phrase>
+      </link> 
+   </para>
+   <para/>
+   <para>
+      <phrase xml:lang="en">Walther, Tatiana 2017. TIB-FIS-Discovery: VIVO an der TIB. </phrase>Zenodo. DOI: <link xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:href="https://doi.org/10.5281/zenodo.1000540">
+         <phrase css:color="#1155CC"
+                 css:text-decoration-style="solid"
+                 css:text-decoration-line="underline">10.5281/zenodo.1000540</phrase>
+      </link>.</para>
+   <para/>
+   <para>Wastl, Jürgen 2017. Forschungsinformation &amp; Linked Data: VIVO@Cambridge. <phrase xml:lang="en">FigShare. DOI: </phrase>
+      <link xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:href="https://doi.org/10.6084/m9.figshare.5480212.v1">
+         <phrase css:color="#1155CC"
+                 css:text-decoration-style="solid"
+                 css:text-decoration-line="underline"
+                 xml:lang="en">10.6084/m9.figshare.5480212.v1.</phrase>
+      </link>
+   </para>
+   <para>
+      <link xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:href="https://doi.org/10.6084/m9.figshare.5480212.v1"/>
+   </para>
+   <para>
+      <phrase xml:lang="en">Wolff, Stefan 2017. </phrase>VIVO-Anbindung an Fremdsysteme am Beispiel einer kommerziellen FIS-Software. Zenodo. DOI: <link xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:href="https://doi.org/10.5281/zenodo.998881">
+         <phrase css:color="#1155CC"
+                 css:text-decoration-style="solid"
+                 css:text-decoration-line="underline">10.5281/zenodo.998881</phrase>
+      </link>.</para>
+   <para role="berschrift21" css:margin-bottom="4pt">
+      <anchor xmlns:mml="http://www.w3.org/1998/Math/MathML" xml:id="_ig83zvxapdpy"/>
+      <phrase css:font-weight="bold" css:font-size="17pt">Autor/innen</phrase>
+   </para>
+   <para>Jana MERSMANN</para>
+   <para>Universitätsbibliothek der TU Braunschweig</para>
+   <para>Universitätsplatz 1</para>
+   <para>38106 Braunschweig</para>
+   <para>
+      <link xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:href="https://ub.tu-braunschweig.de/">
+         <phrase css:color="#1155CC"
+                 css:text-decoration-style="solid"
+                 css:text-decoration-line="underline">https://ub.tu-braunschweig.de</phrase>
+      </link>
+   </para>
+   <para>j.mersmann@tu-braunschweig.de</para>
+   <para/>
+   <para>Christian HAUSCHKE</para>
+   <para>Technische Informationsbibliothek (TIB)</para>
+   <para>Welfengarten 1B</para>
+   <para>D-30167 Hannover</para>
+   <para>
+      <link xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:href="https://www.tib.eu/de/">
+         <phrase css:color="#1155CC"
+                 css:text-decoration-style="solid"
+                 css:text-decoration-line="underline">https://www.tib.eu</phrase>
+      </link>  
+   </para>
+   <para>
+      <link xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:href="mailto:christian.hauschke@tib.eu">
+         <phrase css:color="#1155CC"
+                 css:text-decoration-style="solid"
+                 css:text-decoration-line="underline">christian.hauschke@tib.eu</phrase>
+      </link>
+   </para>
+</hub>
