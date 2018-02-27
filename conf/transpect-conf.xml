@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://transpect.io/cascade/schema/cascade.rng"?>
+<conf xmlns="http://transpect.io">
+  <cascade>
+    <reserved name="css"/>
+    <reserved name="epubtools"/>
+    <reserved name="evolve-hub"/>
+    <reserved name="fonts"/>
+    <reserved name="htmlreports"/>
+    <reserved name="htmltemplates"/>
+    <reserved name="hub2html"/>
+    <reserved name="hub2tei"/>
+    <reserved name="makelib"/>
+    <reserved name="metadata"/>
+    <reserved name="schematron"/>
+    <reserved name="styles"/>
+    <reserved name="tei2html"/>
+    <reserved name="xpl"/>
+    <reserved name="xsl"/>
+    <clade role="publisher" name="osl"/>
+  </cascade>
+</conf>
